@@ -1,3 +1,7 @@
+  // Trabalho de Conclusão de Curso em Engenharia de Controle e Automação 
+  // Protótipo de Robô Doméstico para Aspiração de Pó com Rodas Omnidirecionais
+  // Leonardo Cristiano Küster
+
   #include <Ultrasonic.h>
   #include <Servo.h>
   
